@@ -5,6 +5,9 @@ This repository includes all the python programs that I wrote that can be used t
 
 ## Code Description (in alphabetical order)
 
+### inplace_quicksort.py
+An in-place implementation of quicksort. The algorithm itself doesn't have direct access to the to-be-sorted list, but rather it has only information on the length of the list, and two functions which task is to compare and swap 2 items from a list respectively.
+
 ### savings.py
 There are two subroutines here. **`total_savings`** gives you the amount of money you have after you saved it for `time` years, starting with $`starting_saving` and yearly saving $`yearly_savings` with `interest`%. you can specifically know how much money you have after `year` years
 
