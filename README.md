@@ -8,4 +8,7 @@ This project includes all the python programs that I wrote that can be used to s
 ### savings.py
 There are two subroutines here. **`total_savings`** gives you the amount of money you have after you saved it for `time` years, starting with $`starting_saving` and yearly saving $`yearly_savings` with `interest`%. you can specifically know how much money you have after `year` years
 
+### topological_sort.py
+The code gives you a topological sort of given items or tells you otherwise if it doesn't exist. The implementation is based on “Elementary Graph Algorithms.” Introduction to Algorithms, by Thomas H.. Cormen et al., 3rd ed., The MIT Press, 2009, pp. 604–613.
+
 
