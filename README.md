@@ -11,4 +11,5 @@ There are two subroutines here. **`total_savings`** gives you the amount of mone
 ### topological_sort.py
 The code gives you a topological sort of given items or tells you otherwise if it doesn't exist. The implementation is based on “Elementary Graph Algorithms.” Introduction to Algorithms, by Thomas H.. Cormen et al., 3rd ed., The MIT Press, 2009, pp. 604–613.
 
-
+### evaluate_terms.py
+For a given string representing a mathematical term and the algebraic structure on which this term is defined, the algorithm evaluates the expression and gives its value and its depth if the term is a correct term or tells you otherwise that the term is not a correct term.
